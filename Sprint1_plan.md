@@ -1,6 +1,6 @@
 # Sprint 1 Plan – Course Registration System
 
-**Team Members:** Leonard, Yusuf, Javad, Saleh  
+**Team Members:** Leonard, Youssef, Javad, Saleh  
 **Date:** March 17, 2026  
 
 ---
