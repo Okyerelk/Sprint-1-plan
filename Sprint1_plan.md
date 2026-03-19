@@ -135,7 +135,7 @@ This is well within the team’s capacity and allows room for adjustments if nee
 
 ### User Story 1 – Search Courses
 - Design search bar (Leonard)  
-- Create course dataset (Yusuf)  
+- Create course dataset (Youssef)  
 - Implement search function (Javad)  
 - Display results on page (Saleh)  
 
@@ -143,6 +143,6 @@ This is well within the team’s capacity and allows room for adjustments if nee
 
 ### User Story 2 – View Course Details
 - Create course detail page layout (Leonard)  
-- Link search results to detail page (Yusuf)  
+- Link search results to detail page (Youssef)  
 - Display course information dynamically (Javad)  
 - Test navigation and functionality (Saleh)  
